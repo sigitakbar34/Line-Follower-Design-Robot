@@ -1,4 +1,4 @@
-# Line-Follower-Design-Robot-v2
+# Line-Follower-Design-Robot
 ## Skematik
 ![lf_skematik](https://github.com/sigitakbar34/Line-Follower-Design-Robot-v2/assets/89894719/e5aa0a2d-a532-4932-8e71-5d4cc4070154)
 
